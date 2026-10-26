@@ -10,7 +10,7 @@ This project answers four questions with code we wrote ourselves:
 |---|---|---|
 | 1 | Can we separate two hidden groups of heights with no labels? | `EM_algorithm.ipynb` |
 | 2 | How much does one word tell us about a movie review? | `bayesian.ipynb` |
-| 3 | What does gradient descent do, step by step, by hand? | Manual gradient descent workings PDF |
+| 3 | What does gradient descent do, step by step, by hand? | `Manual gradient descent workings PDF` |
 | 4 | Does the code reproduce our hand calculations exactly? | `gradient_desent.ipynb` |
 
 ---
